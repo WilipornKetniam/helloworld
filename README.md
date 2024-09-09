@@ -5,3 +5,4 @@ This is my first repository!
 ## Authors
 
 - W. Ketniam
+- L.Lion
